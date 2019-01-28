@@ -1,0 +1,152 @@
+[
+    [
+        "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1548655985218,
+            "changeTime": 1548655985218,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1548655985218,
+            "changeTime": 1548655985218,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1548655985218,
+            "changeTime": 1548655985218,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1548655985218,
+            "changeTime": 1548655985218,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main/default/lwc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1548656236616,
+            "changeTime": 1548656236616,
+            "contentHash": "faff82b8edb19af39d7a6c08271b6498fd431a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1548656236618,
+            "changeTime": 1548656236618,
+            "contentHash": "c4f5c53c9e3fa98e7b41f54b72a11b17045711fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld/helloWorld.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld/helloWorld.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 311,
+            "modifiedTime": 1548656262439,
+            "changeTime": 1548656262439,
+            "contentHash": "7370b68224894ea36930868027b9816896bb817c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld/helloWorld.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld/helloWorld.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 215,
+            "modifiedTime": 1548656283074,
+            "changeTime": 1548656283074,
+            "contentHash": "3434a5c8686cb4c9fe4cb6b043a5b12a36c6b9d1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld/helloWorld.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld/helloWorld.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1548656304314,
+            "changeTime": 1548656304314,
+            "contentHash": "5096584b5c9a0e0e20d15d487c516c53bfd14862",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lucascalegari/Desktop/Projects/HelloWorldLightningWebComponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1548655992998,
+            "changeTime": 1548655992998,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
